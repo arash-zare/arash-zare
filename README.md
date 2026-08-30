@@ -2,13 +2,19 @@
 ### 🚀 Data Engineer | DevOps Enthusiast | Cloud Infrastructure Specialist
 
 <p align="left">
+<!-- Languages -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+
+<!-- Infrastructure -->
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
-<img src="https://img.shields.io/badge/ClickHouse-2C3E50?style=for-the-badge&logo=clickhouse&logoColor=white" />
+
+<!-- DevOps -->
+<img src="https://img.shields.io/badge/CI%2FCD-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+<img src="https://img.shields.io/badge/Monitoring-Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
 </p>
+
 
 ---
 
