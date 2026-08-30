@@ -1,4 +1,4 @@
-# Hi there, I'm Arash Zare 👋 
+# Hi there, I'm Arash👋 
 ### 🚀 Data Engineer | DevOps Enthusiast | Cloud Infrastructure Specialist
 
 <p align="left">
