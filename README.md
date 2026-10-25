@@ -1,5 +1,5 @@
 # Hi there, I'm Arash👋 
-### 🚀 Data Engineer | DevOps Enthusiast | Cloud Infrastructure Specialist
+### 🚀 Data Engineer | DevOps
 
 <p align="left">
 <!-- Languages -->
